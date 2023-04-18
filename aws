@@ -1,0 +1,10 @@
+Touch  filennames  
+
+Git add * 
+
+Git commit  -m “aws file comitting” aws 
+
+Gti log   - -oneline 
+
+Git reset  commitid ------- It is used to uncommit the above files(Only commits are deleted files are remained.) 
+These are git commands.
